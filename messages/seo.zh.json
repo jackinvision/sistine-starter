@@ -1,52 +1,52 @@
 {
   "home": {
-    "title": "Sistine AI - 通过 Vibe Coding 将您的 AI SaaS 产品投入生产",
-    "description": "Sistine AI 是一个提供广泛 AI 工具和服务的平台,帮助您掌控业务。生成图像、文本以及启动业务所需的一切。",
+    "title": "SimVid.AI - 用自然语言创造精彩视频",
+    "description": "SimVid.AI 使用精准AI技术即刻将您的创意转化为专业视频。只需用自然语言描述，即可获得高质量、精准匹配的视频内容。",
     "ogImage": "https://ai-saas-template-aceternity.vercel.app/banner.png"
   },
   "pricing": {
-    "title": "定价方案 - Sistine AI SaaS 入门套件",
-    "description": "为您的 AI SaaS 选择完美的方案。此定价模块由 Sistine Starter 构建 - 与 Creem 完全集成,支持订阅支付。",
+    "title": "定价方案 - SimVid.AI 视频生成套餐",
+    "description": "为您的视频创作需求选择完美方案。简单透明的定价，精准AI视频生成。免费开始，随成长扩展。",
     "ogImage": "https://ai-saas-template-aceternity.vercel.app/banner.png"
   },
   "blog": {
-    "title": "博客 - Sistine AI",
-    "description": "来自我们团队的最新见解与更新。了解 AI SaaS 开发、vibe coding 以及构建生产级应用的最佳实践。",
+    "title": "博客 - SimVid.AI",
+    "description": "关于AI视频生成的最新见解和更新，以及充分利用 SimVid.AI 精准技术的最佳实践和创意技巧。",
     "ogImage": "https://ai-saas-template-aceternity.vercel.app/banner.png"
   },
   "contact": {
-    "title": "联系我们 - Sistine AI",
-    "description": "与 Sistine AI 团队取得联系。我们很乐意倾听您的声音,并会尽快回复。",
+    "title": "联系我们 - SimVid.AI",
+    "description": "与 SimVid.AI 团队取得联系。我们致力于帮助您使用精准AI技术创作精彩视频。",
     "ogImage": "https://ai-saas-template-aceternity.vercel.app/banner.png"
   },
   "login": {
-    "title": "登录 - Sistine AI",
-    "description": "登录您的 Sistine AI 账户,访问为您业务提供的强大 AI 工具和服务。",
+    "title": "登录 - SimVid.AI",
+    "description": "登录您的 SimVid.AI 账户，访问强大的AI视频生成工具，开始创作专业内容。",
     "ogImage": "https://ai-saas-template-aceternity.vercel.app/banner.png"
   },
   "signup": {
-    "title": "注册 - Sistine AI",
-    "description": "创建您的 Sistine AI 账户,立即使用我们强大的工具开始构建您的 AI SaaS 产品。",
+    "title": "注册 - SimVid.AI",
+    "description": "创建您的 SimVid.AI 账户，开始用自然语言生成专业视频。行业领先的质量和精准度。",
     "ogImage": "https://ai-saas-template-aceternity.vercel.app/banner.png"
   },
   "terms": {
-    "title": "服务条款 - Sistine AI",
-    "description": "阅读我们的服务条款,了解使用 Sistine AI 平台的规则和指南。",
+    "title": "服务条款 - SimVid.AI",
+    "description": "阅读我们的服务条款，了解使用 SimVid.AI 视频生成平台的规则和指南。",
     "ogImage": "https://ai-saas-template-aceternity.vercel.app/banner.png"
   },
   "privacy": {
-    "title": "隐私政策 - Sistine AI",
-    "description": "了解 Sistine AI 如何收集、使用和保护您的个人信息和数据。",
+    "title": "隐私政策 - SimVid.AI",
+    "description": "了解 SimVid.AI 如何收集、使用和保护您的个人信息及视频内容数据。",
     "ogImage": "https://ai-saas-template-aceternity.vercel.app/banner.png"
   },
   "cookies": {
-    "title": "Cookie 政策 - Sistine AI",
-    "description": "了解 Sistine AI 如何在我们的平台上使用 cookies 和类似的跟踪技术。",
+    "title": "Cookie 政策 - SimVid.AI",
+    "description": "了解 SimVid.AI 如何在我们的平台上使用 cookies 和类似的跟踪技术。",
     "ogImage": "https://ai-saas-template-aceternity.vercel.app/banner.png"
   },
   "refund": {
-    "title": "退款政策 - Sistine AI",
-    "description": "查看我们的退款政策,了解申请退款的条件和流程。",
+    "title": "退款政策 - SimVid.AI",
+    "description": "查看我们的退款政策，了解申请退款的条件和流程。",
     "ogImage": "https://ai-saas-template-aceternity.vercel.app/banner.png"
   }
 }

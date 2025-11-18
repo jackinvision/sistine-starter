@@ -1,9 +1,9 @@
 {
   "common": {
     "brand": {
-      "name": "SISTINE",
-      "tagline": "Sistine AI & Sistine Labs",
-      "copyright": "版权所有 © 2025 Sistine AI & Sistine Labs",
+      "name": "SimVid.AI",
+      "tagline": "精准AI视频生成",
+      "copyright": "版权所有 © 2025 SimVid.AI",
       "allRightsReserved": "保留所有权利"
     },
     "actions": {
@@ -62,40 +62,40 @@
     }
   },
   "hero": {
-    "badge": "⚡ 专为 Vibe Coding 打造的首款入门套件",
-    "title": "通过 Vibe Coding 将您的 AI SaaS 产品投入生产",
-    "description": "不懂编程？没问题。Sistine 加上 AI 编程助手，让您的 SaaS 创意在数小时内上线。您只需描述您的想法，即可交付用户真正喜爱的产品。",
+    "badge": "⚡ 精准AI视频生成",
+    "title": "用自然语言创造精彩视频",
+    "description": "将您的创意即刻转化为专业视频。只需用自然语言描述您的想法，SimVid.AI 就能以无与伦比的精准度和质量将您的愿景变为现实。",
     "cta": {
-      "primary": "查看文档",
-      "secondary": "获取代码"
+      "primary": "开始创作",
+      "secondary": "观看演示"
     }
   },
   "features": {
-    "title": "Vibe Coding 成功所需的一切功能",
-    "subtitle": "告别在样板代码上浪费时间。专注于描述您的独特功能，Sistine 会为您处理好底层基础。借助 AI 加速产品交付。",
+    "title": "为什么选择 SimVid.AI",
+    "subtitle": "体验下一代AI视频创作技术。我们的先进技术确保您的视频以无可比拟的精准度和质量完美呈现您的愿景。",
     "items": {
       "aiOptimized": {
-        "title": "为 AI 辅助开发而生",
-        "description": "为 Cursor、Windsurf 和 Claude Code 等工具完美结构化。每个文件、每个组件都经过优化，便于 AI 理解和修改。"
+        "title": "精准还原需求",
+        "description": "我们的AI引擎准确理解您的自然语言描述，并将其转化为完全符合您设想的视频内容。无需猜测，直达结果。"
       },
       "zeroPipeline": {
-        "title": "从零到生产的完整流程",
-        "description": "身份验证、支付、数据库、部署——一切均已配置完毕。只需向您的 AI 助手发出指令，即可见证您的 SaaS 产品诞生。"
+        "title": "行业领先的质量",
+        "description": "采用前沿AI模型，经过数百万高质量视频训练。每一帧都经过优化，呈现专业级的卓越输出效果。"
       },
       "nonTechnical": {
-        "title": "对非技术背景的创始人友好",
-        "description": "分不清 React 和 Rails？没关系。只要您能清晰地描述您的想法，就能成功交付一款 SaaS 产品。"
+        "title": "自然语言交互",
+        "description": "无需任何技术技能。用中文或其他支持语言描述您的视频创意，几秒钟即可看到成果。"
       },
       "productionGrade": {
-        "title": "从第一天起即达生产级别",
-        "description": "支持真实用户、真实支付、真实规模。基于 Next.js、PostgreSQL 和 Creem 构建——与价值数十亿美元公司使用的技术栈一致。"
+        "title": "即用型输出效果",
+        "description": "支持多种格式和分辨率导出。视频可直接用于社交媒体、营销活动、演示或任何专业场景。"
       }
     }
   },
   "pricing": {
     "title": "定价方案",
-    "subtitle": "简单透明的定价，随您的业务一同扩展",
-    "description": "这个定价模块由 Sistine Starter 构建。内置 Creem 订阅、使用量跟踪和计费门户。免费开始，按需升级获得更强大的功能。",
+    "subtitle": "简单透明的定价，随您的创作需求灵活扩展",
+    "description": "为您的视频创作需求选择完美方案。免费开始，随成长升级。所有方案均包含精准AI视频生成引擎访问权限。",
     "billing": {
       "monthly": "按月计费",
       "yearly": "按年计费"
@@ -136,11 +136,11 @@
         },
         "cta": "免费开始",
         "features": [
-          "每月 100 次 AI 操作",
-          "3 个活动工作流",
-          "基础集成",
-          "社区支持",
-          "基础分析"
+          "每月 100 次视频生成",
+          "每个视频最长 30 秒",
+          "720p 高清分辨率",
+          "标准处理速度",
+          "社区支持"
         ]
       },
       "starter": {
@@ -152,13 +152,13 @@
         },
         "cta": "开始试用",
         "features": [
-          "每月 1,000 次 AI 操作",
-          "无限工作流",
-          "所有集成",
+          "每月 1,000 次视频生成",
+          "每个视频最长 60 秒",
+          "1080p 全高清分辨率",
+          "优先处理",
           "邮件支持",
-          "高级 AI 模型",
-          "自定义品牌",
-          "API 访问权限"
+          "移除水印",
+          "商业使用授权"
         ]
       },
       "professional": {
@@ -170,15 +170,15 @@
         },
         "cta": "开始使用",
         "features": [
-          "每月 10,000 次 AI 操作",
-          "优先处理",
-          "自定义 AI 训练",
-          "高级 API 访问权限",
-          "优先支持",
-          "团队协作",
-          "白标选项",
-          "高级分析",
-          "SSO 单点登录"
+          "每月 10,000 次视频生成",
+          "每个视频最长 120 秒",
+          "4K 超高清分辨率",
+          "最快处理速度",
+          "24/7 优先支持",
+          "团队协作工具",
+          "高级编辑功能",
+          "API 访问权限",
+          "自定义品牌"
         ]
       },
       "enterprise": {
@@ -190,14 +190,14 @@
         },
         "cta": "联系销售",
         "features": [
-          "无限次 AI 操作",
+          "无限次视频生成",
+          "无限视频长度",
+          "8K 分辨率可选",
           "专属基础设施",
-          "自定义 AI 模型",
-          "服务等级协议 (SLA) 保证",
+          "自定义 AI 模型训练",
           "24/7 电话支持",
-          "自定义集成",
-          "本地化部署",
-          "合规认证",
+          "本地化部署选项",
+          "服务等级协议 (SLA) 保证",
           "专属客户经理"
         ]
       },
@@ -214,38 +214,38 @@
     }
   },
   "testimonials": {
-    "title": "来自 Vibe Coders 的成功故事",
-    "subtitle": "真实开发者与非技术背景创始人分享他们使用 Sistine 和 Vibe Coding 构建 AI SaaS 产品的经验。",
+    "title": "用户评价",
+    "subtitle": "全球的创作者、营销人员和企业信赖 SimVid.AI,用精准和质量将视频创意变为现实。",
     "items": [
       {
-        "name": "Manu Arora",
-        "quote": "我不是开发者，我是营销人员。但我使用 Sistine + Cursor 在 3 天内发布了我的 AI SaaS。现在每月收入 5000 美元。",
-        "designation": "营销经理转型创始人"
+        "name": "陈雪",
+        "quote": "SimVid.AI 彻底改变了我们的内容创作流程。从以往需要几天制作视频，到现在几分钟就能创建专业内容。精准度令人惊叹。",
+        "designation": "市场总监"
       },
       {
-        "name": "Tyler Durden",
-        "quote": "我花了多年学习编码。现在我的非技术联合创始人使用 Vibe Coding 发布功能比我还快。这就是未来。",
-        "designation": "技术联合创始人"
+        "name": "王强",
+        "quote": "作为内容创作者，我最初对 AI 视频生成持怀疑态度。SimVid.AI 完全改变了我的看法。质量可媲美专业制作，成本却只是其零头。",
+        "designation": "内容创作者"
       },
       {
-        "name": "Alice Johnson",
-        "quote": "从想法到每月 1 万美元收入只用了 2 个月。全靠感觉，无需编码。Sistine 让我能与有资金支持的创业公司竞争。",
-        "designation": "连续创业者"
+        "name": "李娜",
+        "quote": "自然语言界面真是革命性的。我只需描述想要的内容，SimVid.AI 就能精准实现。无需任何技术技能。",
+        "designation": "小企业主"
       },
       {
-        "name": "Bob Smith",
-        "quote": "仅在本季度就构建并发布了 3 个不同的 AI SaaS 产品。使用 Sistine 进行 Vibe Coding 是我的秘密武器。",
-        "designation": "独立黑客"
+        "name": "张明",
+        "quote": "我们所有社交媒体内容都使用 SimVid.AI。精准匹配需求意味着第一次就能得到可用的视频，每次都是如此。",
+        "designation": "社交媒体经理"
       },
       {
-        "name": "Cathy Lee",
-        "quote": "我用普通英语向 Claude Code 描述功能。Sistine 处理其他一切。发布从未如此快速。",
-        "designation": "产品经理"
+        "name": "刘芳",
+        "quote": "质量非常出色。我们的客户分不出 SimVid.AI 视频和传统制作内容的区别。这彻底改变了我们的机构。",
+        "designation": "创意机构总监"
       },
       {
-        "name": "David Wright",
-        "quote": "身份验证、支付和部署都可以直接使用。我专注于独特的功能。我的 SaaS 第一周就盈利了。",
-        "designation": "独立创始人"
+        "name": "赵伟",
+        "quote": "我试过所有 AI 视频工具。SimVid.AI 是唯一能持续提供可直接使用成果的。精准度无可匹敌。",
+        "designation": "视频制作人"
       },
       {
         "name": "Eva Green",
@@ -333,9 +333,9 @@
     }
   },
   "cta": {
-    "title": "准备好交付您的 AI SaaS 产品了吗？",
-    "description": "加入数百名开发者的行列，他们已经通过 Sistine 和 Vibe Coding 成功发布了自己的 SaaS 产品。",
-    "button": "获取代码"
+    "title": "准备创作精彩视频了吗？",
+    "description": "加入数千名信赖 SimVid.AI 的创作者，用精准和质量将视频创意变为现实。",
+    "button": "开始免费试用"
   },
   "auth": {
     "login": {
@@ -962,7 +962,7 @@
     ]
   },
   "footer": {
-    "tagline": "利用 AI 的力量，将您的 SaaS 创意转化为现实。",
+    "tagline": "借助精准 AI 的力量，将您的创意转化为精彩视频。",
     "product": {
       "title": "产品",
       "features": "功能",

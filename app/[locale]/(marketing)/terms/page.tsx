@@ -26,30 +26,34 @@ export default function TermsPage() {
         <h1 className="text-4xl font-bold mb-8">Terms of Service</h1>
         
         <p className="text-muted-foreground mb-8">
-          Effective Date: [Date]
+          Effective Date: January 1, 2025
         </p>
 
         <section className="mb-8">
           <h2 className="text-2xl font-semibold mb-4">1. Introduction</h2>
           <p>
-            Welcome to [Your Company Name] ("[Company]", "we", "our", or "us"). These Terms of Service ("Terms") govern your use of our website and services (collectively, the "Service") located at [Your Domain].
+            Welcome to SimVid.AI ("SimVid", "we", "our", or "us"). These Terms of Service ("Terms") govern your use of our AI-powered video generation platform and services (collectively, the "Service") located at https://simvid.ai.
           </p>
           <p>
-            By accessing or using our Service, you agree to be bound by these Terms. If you disagree with any part of these terms, then you may not access the Service.
+            By accessing or using our Service, you agree to be bound by these Terms and our Refund Policy. If you disagree with any part of these terms, then you may not access the Service.
           </p>
         </section>
 
         <section className="mb-8">
           <h2 className="text-2xl font-semibold mb-4">2. Service Description</h2>
           <p>
-            [Your Company Name] provides [describe your service/product]. Our Service allows you to:
+            SimVid.AI provides an AI-powered video generation platform that allows users to create videos using natural language descriptions. Our Service operates on a credits-based system where:
           </p>
           <ul className="list-disc pl-6 space-y-2">
-            <li>[Feature/capability 1]</li>
-            <li>[Feature/capability 2]</li>
-            <li>[Feature/capability 3]</li>
-            <li>[Additional features as needed]</li>
+            <li>Users purchase credits through one-time purchases or subscription plans</li>
+            <li>Credits are consumed when generating videos based on parameters such as length, resolution, and features</li>
+            <li>AI technology transforms text prompts into professional video content</li>
+            <li>Videos are generated in various resolutions and formats suitable for different uses</li>
+            <li>All video generation occurs through our cloud-based AI infrastructure</li>
           </ul>
+          <p className="mt-4">
+            <strong>Important:</strong> Credits are consumed immediately upon video generation request. Once consumed, credits are non-refundable except as specified in our Refund Policy (service outages/failures only).
+          </p>
         </section>
 
         <section className="mb-8">
@@ -97,16 +101,52 @@ export default function TermsPage() {
         </section>
 
         <section className="mb-8">
-          <h2 className="text-2xl font-semibold mb-4">6. Payment Terms</h2>
+          <h2 className="text-2xl font-semibold mb-4">6. Payment Terms and Credits System</h2>
+          
+          <h3 className="text-xl font-semibold mb-3">Credits Purchase</h3>
           <p>
-            If you purchase any services from us, you agree to pay all applicable fees as described at the time of purchase. All payments are:
+            SimVid.AI operates on a prepaid credits system:
           </p>
           <ul className="list-disc pl-6 space-y-2">
-            <li>Processed through secure third-party payment providers</li>
-            <li>Subject to the payment provider's terms and conditions</li>
-            <li>Non-refundable except as required by law or as explicitly stated in our Refund Policy</li>
-            <li>Subject to applicable taxes which you are responsible for</li>
+            <li>Credits can be purchased through one-time packages or subscription plans</li>
+            <li>All prices are displayed in USD and include applicable taxes</li>
+            <li>Payment is processed immediately upon purchase</li>
+            <li>Credits are added to your account within 24 hours of successful payment</li>
+            <li>Unused credits do not expire (unless explicitly stated for promotional credits)</li>
           </ul>
+
+          <h3 className="text-xl font-semibold mb-3 mt-4">Credit Consumption</h3>
+          <ul className="list-disc pl-6 space-y-2">
+            <li>Credits are consumed immediately when video generation is initiated</li>
+            <li>Different video parameters require different credit amounts (length, resolution, features)</li>
+            <li>Credit costs are displayed before confirming generation</li>
+            <li>Insufficient credits will prevent video generation until credits are purchased</li>
+            <li>Failed generations due to system errors will be refunded as credits to your account</li>
+          </ul>
+
+          <h3 className="text-xl font-semibold mb-3 mt-4">Payment Processing</h3>
+          <ul className="list-disc pl-6 space-y-2">
+            <li>Payments are processed through secure third-party payment processors</li>
+            <li>We do not store your payment card information</li>
+            <li>You agree to pay all fees and applicable taxes</li>
+            <li>You authorize us to charge your payment method for all purchases</li>
+            <li>Payment processing fees are non-refundable</li>
+          </ul>
+
+          <h3 className="text-xl font-semibold mb-3 mt-4">Subscription Plans</h3>
+          <ul className="list-disc pl-6 space-y-2">
+            <li>Subscription plans provide monthly credit allocations</li>
+            <li>Billing occurs automatically on your subscription renewal date</li>
+            <li>You can cancel subscriptions at any time (cancellation takes effect at period end)</li>
+            <li>Unused subscription credits typically do not roll over month-to-month</li>
+            <li>Subscription charges are non-refundable except for service outages per our Refund Policy</li>
+          </ul>
+
+          <div className="mt-4 p-4 bg-red-50 dark:bg-red-900/20 border-l-4 border-red-500 rounded">
+            <p>
+              <strong>Refund Policy:</strong> Due to the immediate consumption of computational resources for AI video generation, refunds are strictly limited to cases of complete service outages or critical system failures as detailed in our Refund Policy. Credits that have been used to generate videos are non-refundable under any circumstances.
+            </p>
+          </div>
         </section>
 
         <section className="mb-8">
@@ -153,7 +193,7 @@ export default function TermsPage() {
         <section className="mb-8">
           <h2 className="text-2xl font-semibold mb-4">12. Governing Law</h2>
           <p>
-            These Terms shall be governed and construed in accordance with the laws of [Your Jurisdiction], without regard to its conflict of law provisions. Any legal action or proceeding arising under these Terms will be brought exclusively in courts located in [Your Jurisdiction].
+            These Terms shall be governed and construed in accordance with applicable international law and the laws of the jurisdiction where SimVid.AI operates, without regard to its conflict of law provisions. Any legal action or proceeding arising under these Terms will be subject to binding arbitration or courts with appropriate jurisdiction.
           </p>
         </section>
 
@@ -163,9 +203,10 @@ export default function TermsPage() {
             If you have any questions about these Terms, please contact us at:
           </p>
           <ul className="list-none space-y-2 mt-4">
-            <li>Email: [Your Email]</li>
-            <li>Website: [Your Website]</li>
-            <li>Address: [Your Address]</li>
+            <li><strong>Support Email:</strong> support@simvid.ai</li>
+            <li><strong>Business Inquiries:</strong> business@simvid.ai</li>
+            <li><strong>Legal Inquiries:</strong> legal@simvid.ai</li>
+            <li><strong>Website:</strong> https://simvid.ai</li>
           </ul>
         </section>
       </div>

@@ -26,13 +26,13 @@ export default function CookiesPage() {
         <h1 className="text-4xl font-bold mb-8">Cookie Policy</h1>
         
         <p className="text-muted-foreground mb-8">
-          Effective Date: [Date]
+          Effective Date: January 1, 2025
         </p>
 
         <section className="mb-8">
           <h2 className="text-2xl font-semibold mb-4">1. Introduction</h2>
           <p>
-            [Your Company Name] ("[Company]", "we", "our", or "us") uses cookies and similar tracking technologies on our website and services. This Cookie Policy explains what cookies are, how we use them, and your choices regarding their use.
+            SimVid.AI ("SimVid", "we", "our", or "us") uses cookies and similar tracking technologies on our website and AI video generation platform. This Cookie Policy explains what cookies are, how we use them, and your choices regarding their use.
           </p>
           <p>
             By continuing to use our website, you consent to our use of cookies as described in this policy. If you do not agree to our use of cookies, please adjust your browser settings or discontinue use of our website.
@@ -241,10 +241,9 @@ export default function CookiesPage() {
             If you have any questions about our use of cookies or this Cookie Policy, please contact us at:
           </p>
           <ul className="list-none space-y-2 mt-4">
-            <li>Email: [Privacy Email]</li>
-            <li>Support: [Support Email]</li>
-            <li>Website: [Your Website]</li>
-            <li>Address: [Your Address]</li>
+            <li><strong>Privacy Email:</strong> privacy@simvid.ai</li>
+            <li><strong>Support:</strong> support@simvid.ai</li>
+            <li><strong>Website:</strong> https://simvid.ai</li>
           </ul>
         </section>
       </div>

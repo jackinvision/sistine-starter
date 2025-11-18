@@ -1,9 +1,9 @@
 {
   "common": {
     "brand": {
-      "name": "SISTINE",
-      "tagline": "Sistine AI & Sistine Labs",
-      "copyright": "Copyright © 2025 Sistine AI & Sistine Labs",
+      "name": "SimVid.AI",
+      "tagline": "Precision AI Video Generation",
+      "copyright": "Copyright © 2025 SimVid.AI",
       "allRightsReserved": "All rights reserved"
     },
     "actions": {
@@ -62,40 +62,40 @@
     }
   },
   "hero": {
-    "badge": "⚡ The First Starter Built for Vibe Coding",
-    "title": "Vibe Code Your AI SaaS to Production",
-    "description": "No coding skills? Perfect. Sistine + AI coding assistants = Your SaaS idea live in hours. Just describe what you want. Ship what users love.",
+    "badge": "⚡ Precision AI Video Generation",
+    "title": "Create Stunning Videos with Natural Language",
+    "description": "Transform your ideas into professional videos instantly. Simply describe what you want in natural language, and watch SimVid.AI bring your vision to life with unmatched precision and quality.",
     "cta": {
-      "primary": "View Docs",
-      "secondary": "Get Code"
+      "primary": "Start Creating",
+      "secondary": "Watch Demo"
     }
   },
   "features": {
-    "title": "Everything You Need for Vibe Coding Success",
-    "subtitle": "Stop wasting time on boilerplate. Focus on describing your unique features while Sistine handles the foundation. Ship faster with AI.",
+    "title": "Why Choose SimVid.AI",
+    "subtitle": "Experience the next generation of AI video creation. Our advanced technology ensures your videos match your vision with unparalleled accuracy and quality.",
     "items": {
       "aiOptimized": {
-        "title": "Built for AI-Assisted Development",
-        "description": "Perfectly structured for Cursor, Windsurf, and Claude Code. Every file, every component optimized for AI understanding and modification."
+        "title": "Precision Requirement Matching",
+        "description": "Our AI engine accurately interprets your natural language descriptions and converts them into exactly the video you envision. No more guesswork, just results."
       },
       "zeroPipeline": {
-        "title": "Zero to Production Pipeline",
-        "description": "Authentication, payments, database, deployment - all configured. Just prompt your AI assistant and watch your SaaS come to life."
+        "title": "Industry-Leading Quality",
+        "description": "Powered by cutting-edge AI models trained on millions of high-quality videos. Every frame is optimized for professional-grade output that stands out."
       },
       "nonTechnical": {
-        "title": "Non-Technical Founder Friendly",
-        "description": "Don't know React from Rails? Doesn't matter. If you can describe your idea clearly, you can ship a SaaS product."
+        "title": "Natural Language Interface",
+        "description": "No technical skills required. Describe your video idea in plain English or any supported language, and watch it come to life in seconds."
       },
       "productionGrade": {
-        "title": "Production-Grade from Day One",
-        "description": "Real users, real payments, real scale. Built on Next.js, PostgreSQL, and Creem - the same stack powering billion-dollar companies."
+        "title": "Production-Ready Output",
+        "description": "Export in multiple formats and resolutions. Videos are ready for social media, marketing campaigns, presentations, or any professional use."
       }
     }
   },
   "pricing": {
     "title": "Pricing Plans",
-    "subtitle": "Simple, transparent pricing that scales with your business",
-    "description": "This pricing section is built with Sistine Starter. Creem subscriptions, usage tracking, and billing portal included. Start free, upgrade when you need more power.",
+    "subtitle": "Simple, transparent pricing that scales with your creative needs",
+    "description": "Choose the perfect plan for your video creation needs. Start free and upgrade as you grow. All plans include access to our precision AI video generation engine.",
     "billing": {
       "monthly": "Monthly",
       "yearly": "Yearly"
@@ -136,11 +136,11 @@
         },
         "cta": "Start Free",
         "features": [
-          "100 AI operations/month",
-          "3 active workflows",
-          "Basic integrations",
-          "Community support",
-          "Basic analytics"
+          "100 video generations/month",
+          "Up to 30 seconds per video",
+          "720p HD resolution",
+          "Standard processing speed",
+          "Community support"
         ]
       },
       "starter": {
@@ -152,13 +152,13 @@
         },
         "cta": "Start Trial",
         "features": [
-          "1,000 AI operations/month",
-          "Unlimited workflows",
-          "All integrations",
+          "1,000 video generations/month",
+          "Up to 60 seconds per video",
+          "1080p Full HD resolution",
+          "Priority processing",
           "Email support",
-          "Advanced AI models",
-          "Custom branding",
-          "API access"
+          "Remove watermarks",
+          "Commercial usage rights"
         ]
       },
       "professional": {
@@ -170,15 +170,15 @@
         },
         "cta": "Get Started",
         "features": [
-          "10,000 AI operations/month",
-          "Priority processing",
-          "Custom AI training",
-          "Advanced API access",
-          "Priority support",
-          "Team collaboration",
-          "White-label options",
-          "Advanced analytics",
-          "SSO authentication"
+          "10,000 video generations/month",
+          "Up to 120 seconds per video",
+          "4K Ultra HD resolution",
+          "Fastest processing speed",
+          "Priority support 24/7",
+          "Team collaboration tools",
+          "Advanced editing features",
+          "API access",
+          "Custom branding"
         ]
       },
       "enterprise": {
@@ -190,14 +190,14 @@
         },
         "cta": "Contact Sales",
         "features": [
-          "Unlimited AI operations",
+          "Unlimited video generations",
+          "Unlimited video length",
+          "8K resolution available",
           "Dedicated infrastructure",
-          "Custom AI models",
-          "SLA guarantee",
+          "Custom AI model training",
           "24/7 phone support",
-          "Custom integrations",
-          "On-premise deployment",
-          "Compliance certifications",
+          "On-premise deployment option",
+          "SLA guarantee",
           "Dedicated account manager"
         ]
       },
@@ -214,38 +214,38 @@
     }
   },
   "testimonials": {
-    "title": "Success Stories from Vibe Coders",
-    "subtitle": "Real developers and non-technical founders sharing their experience building AI SaaS products with Sistine and Vibe Coding.",
+    "title": "What Our Users Say",
+    "subtitle": "Creators, marketers, and businesses around the world trust SimVid.AI to bring their video ideas to life with precision and quality.",
     "items": [
       {
-        "name": "Manu Arora",
-        "quote": "I'm not a developer. I'm a marketer. But I shipped my AI SaaS in 3 days using Sistine + Cursor. Now making $5K MRR.",
-        "designation": "Marketing Manager turned Founder"
+        "name": "Sarah Chen",
+        "quote": "SimVid.AI transformed our content creation process. We went from spending days on video production to creating professional content in minutes. The precision is incredible.",
+        "designation": "Marketing Director"
       },
       {
-        "name": "Tyler Durden",
-        "quote": "Spent years learning to code. Now my non-technical co-founder ships features faster than me using Vibe Coding. This is the future.",
-        "designation": "Technical Co-founder"
+        "name": "Michael Torres",
+        "quote": "As a content creator, I was skeptical about AI video generation. SimVid.AI changed my mind completely. The quality rivals professional production at a fraction of the cost.",
+        "designation": "Content Creator"
       },
       {
-        "name": "Alice Johnson",
-        "quote": "From idea to $10K MRR in 2 months. All vibes, no code. Sistine made it possible to compete with funded startups.",
-        "designation": "Serial Entrepreneur"
+        "name": "Emily Watson",
+        "quote": "The natural language interface is a game-changer. I just describe what I want, and SimVid.AI delivers exactly that. No technical skills needed.",
+        "designation": "Small Business Owner"
       },
       {
-        "name": "Bob Smith",
-        "quote": "Built and launched 3 different AI SaaS products this quarter alone. Vibe Coding with Sistine is my secret weapon.",
-        "designation": "Indie Hacker"
+        "name": "James Park",
+        "quote": "We use SimVid.AI for all our social media content. The precision matching of our requirements means we get usable videos on the first try, every time.",
+        "designation": "Social Media Manager"
       },
       {
-        "name": "Cathy Lee",
-        "quote": "I describe features in plain English to Claude Code. Sistine handles the rest. Shipping has never been this fast.",
-        "designation": "Product Manager"
+        "name": "Lisa Anderson",
+        "quote": "The quality is outstanding. Our clients can't tell the difference between SimVid.AI videos and traditionally produced content. It's revolutionized our agency.",
+        "designation": "Creative Agency Director"
       },
       {
-        "name": "David Wright",
-        "quote": "The authentication, payments, and deployment just work. I focus on unique features. My SaaS was profitable week one.",
-        "designation": "Solo Founder"
+        "name": "David Kim",
+        "quote": "I've tried every AI video tool out there. SimVid.AI is the only one that consistently delivers production-ready results. The precision is unmatched.",
+        "designation": "Video Producer"
       },
       {
         "name": "Eva Green",
@@ -333,9 +333,9 @@
     }
   },
   "cta": {
-    "title": "Ready to Ship Your AI SaaS?",
-    "description": "Join hundreds of developers who launched their SaaS products with Sistine and Vibe Coding.",
-    "button": "Get Code"
+    "title": "Ready to Create Amazing Videos?",
+    "description": "Join thousands of creators who trust SimVid.AI to bring their video ideas to life with precision and quality.",
+    "button": "Start Free Trial"
   },
   "auth": {
     "login": {
@@ -963,7 +963,7 @@
     ]
   },
   "footer": {
-    "tagline": "Transform your SaaS ideas into reality with the power of AI.",
+    "tagline": "Transform your ideas into stunning videos with the power of precision AI.",
     "product": {
       "title": "Product",
       "features": "Features",

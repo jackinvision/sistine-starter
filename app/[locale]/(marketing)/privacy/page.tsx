@@ -26,16 +26,19 @@ export default function PrivacyPage() {
         <h1 className="text-4xl font-bold mb-8">Privacy Policy</h1>
         
         <p className="text-muted-foreground mb-8">
-          Effective Date: [Date]
+          Effective Date: January 1, 2025
         </p>
 
         <section className="mb-8">
           <h2 className="text-2xl font-semibold mb-4">1. Introduction</h2>
           <p>
-            [Your Company Name] ("[Company]", "we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website and use our services.
+            SimVid.AI ("SimVid", "we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website and use our AI video generation services.
           </p>
           <p>
-            Please read this privacy policy carefully. If you do not agree with the terms of this privacy policy, please do not access the site.
+            Please read this privacy policy carefully. If you do not agree with the terms of this privacy policy, please do not access or use our Service.
+          </p>
+          <p className="mt-4">
+            <strong>Service-Specific Note:</strong> Our Service processes video generation requests using AI. While we do not store your generated videos permanently on our servers, we temporarily process your prompts and video content to provide the Service.
           </p>
         </section>
 
@@ -68,6 +71,19 @@ export default function PrivacyPage() {
             <li>Authentication tokens</li>
             <li>Any additional information you authorize</li>
           </ul>
+
+          <h3 className="text-xl font-semibold mb-3 mt-4">Video Generation Data</h3>
+          <p>When you use our AI video generation service, we collect:</p>
+          <ul className="list-disc pl-6 space-y-2">
+            <li>Text prompts and descriptions you provide for video generation</li>
+            <li>Video generation parameters (resolution, length, style preferences)</li>
+            <li>Reference images or media uploaded for video creation</li>
+            <li>Generated video metadata (not the actual video files, which are temporarily processed)</li>
+            <li>Credits consumed and transaction history</li>
+          </ul>
+          <p className="mt-2">
+            <strong>Important:</strong> Generated videos are temporarily stored for download and then automatically deleted after 30 days. We do not permanently retain your generated content unless required by law.
+          </p>
         </section>
 
         <section className="mb-8">
@@ -94,12 +110,16 @@ export default function PrivacyPage() {
           <h3 className="text-xl font-semibold mb-3">With Service Providers</h3>
           <p>We share information with third-party vendors who perform services on our behalf, such as:</p>
           <ul className="list-disc pl-6 space-y-2">
-            <li>Payment processors (Creem, PayPal)</li>
-            <li>Cloud hosting providers</li>
-            <li>Analytics services</li>
+            <li>Payment processors for credit purchases and subscriptions</li>
+            <li>Cloud infrastructure providers for AI video generation</li>
+            <li>CDN services for video delivery</li>
+            <li>Analytics services for usage monitoring</li>
             <li>Customer support tools</li>
-            <li>Email service providers</li>
+            <li>Email service providers for transactional communications</li>
           </ul>
+          <p className="mt-2">
+            <strong>AI Processing:</strong> Your video generation prompts are processed through our AI infrastructure. We use industry-leading security measures to protect this data during processing.
+          </p>
 
           <h3 className="text-xl font-semibold mb-3 mt-4">For Legal Purposes</h3>
           <p>We may disclose your information when required by law or to:</p>
@@ -240,13 +260,13 @@ export default function PrivacyPage() {
             If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at:
           </p>
           <ul className="list-none space-y-2 mt-4">
-            <li>Email: [Privacy Email]</li>
-            <li>Support: [Support Email]</li>
-            <li>Website: [Your Website]</li>
-            <li>Address: [Your Address]</li>
+            <li><strong>Privacy Email:</strong> privacy@simvid.ai</li>
+            <li><strong>Support:</strong> support@simvid.ai</li>
+            <li><strong>Data Protection Officer:</strong> dpo@simvid.ai</li>
+            <li><strong>Website:</strong> https://simvid.ai</li>
           </ul>
           <p className="mt-4">
-            For data protection inquiries, you may also contact our Data Protection Officer at: [DPO Email]
+            For data protection inquiries, GDPR requests, or CCPA rights, please contact our Data Protection Officer at: dpo@simvid.ai
           </p>
         </section>
       </div>
