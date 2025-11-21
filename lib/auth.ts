@@ -24,12 +24,12 @@ export const auth = betterAuth({
     enabled: true,
   },
 
-  socialProviders: {
+  socialProviders: process.env.AUTH_GOOGLE_ID && process.env.AUTH_GOOGLE_SECRET ? {
     google: {
-      clientId: process.env.AUTH_GOOGLE_ID!,
-      clientSecret: process.env.AUTH_GOOGLE_SECRET!,
+      clientId: process.env.AUTH_GOOGLE_ID,
+      clientSecret: process.env.AUTH_GOOGLE_SECRET,
     },
-  },
+  } : undefined,
 
   trustedOrigins,
 

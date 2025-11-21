@@ -14,7 +14,12 @@ const getDefaultFromEmail = () => {
     return 'Sistine AI <onboarding@resend.dev>';
   }
   
-  // 3. 生产环境要求必须配置
+  // 3. 生产环境优先使用 Resend 测试域名（适用于开发测试）
+  if (process.env.RESEND_VERIFIED_DOMAIN === 'resend.dev') {
+    return 'Sistine AI <onboarding@resend.dev>';
+  }
+
+  // 4. 生产环境要求必须配置自定义域名
   if (!process.env.RESEND_VERIFIED_DOMAIN) {
     console.error('❌ RESEND_VERIFIED_DOMAIN is required in production');
     console.error('Please add RESEND_VERIFIED_DOMAIN to your environment variables');
@@ -22,8 +27,8 @@ const getDefaultFromEmail = () => {
     // 返回一个明显的错误邮箱，让问题立即暴露
     return 'DOMAIN_NOT_CONFIGURED@example.com';
   }
-  
-  // 4. 使用配置的域名和应用名称
+
+  // 5. 使用配置的域名和应用名称
   const appName = process.env.NEXT_PUBLIC_APP_NAME || 'Sistine AI';
   const fromName = process.env.RESEND_FROM_NAME || appName;
   return `${fromName} <noreply@${process.env.RESEND_VERIFIED_DOMAIN}>`;
